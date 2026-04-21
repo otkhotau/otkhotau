@@ -17,8 +17,8 @@ I'm a Grade 11 student with a deep passion for building high-performance backend
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 GitHub Activity
-![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=otkhotau&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otkhotau&layout=compact&theme=transparent&hide_border=true)
 
 ---
 *“Coding with Logic, Designing with Soul.”*
